@@ -1,5 +1,8 @@
 # CloudComputing
 
+### Amazon Web Services (AWS)
+### Microsoft Azure
+### Google Cloud Platform
 
 ### Seven Bridges
 ### DNAnexus
